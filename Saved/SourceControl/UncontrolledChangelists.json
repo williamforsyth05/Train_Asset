@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Github/Train_Asset/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/EditorMaterials/GeometryCollection/InMaterial.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset"
+			]
+		}
+	]
+}
