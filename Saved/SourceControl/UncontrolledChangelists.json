@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/wfors/Downloads/Train_Asset/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/wfors/Downloads/Train_Asset/Content/CP_Train/Maps/Overview.umap",
+				"C:/Users/wfors/Downloads/Train_Asset/Content/Box.uasset",
+				"C:/Users/wfors/Downloads/Train_Asset/Content/Main.uasset",
+				"C:/Users/wfors/Downloads/Train_Asset/Content/SM_Tunnel_Entrance.uasset"
+			]
+		}
+	]
+}
